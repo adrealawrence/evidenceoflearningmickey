@@ -4,18 +4,21 @@
 
 # Permalinks
 permalink:           /:title
+<<<<<<< Updated upstream
 future:              true
+=======
+>>>>>>> Stashed changes
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         site name
-title:               site title
+title:               Evidence of Learning
 tagline:             'tagline'
-description:         'description'
+description:         'Learning happens in many different contexts. See its evidence here.'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             '/evidenceoflearningmickey/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
@@ -24,10 +27,10 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
+  name:           	 Adrea Lawrence
+  url:            	 localhost:4000
+  email:             adrea.lawrence@gmail.com
+  twitter:           dradrea
   google_plus:       username
   linkedin:          username
   dribbble:          username

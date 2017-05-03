@@ -1,6 +1,7 @@
 
 # Syntax highlighting
-
+kramdown:
+  input: GFM
 
 # Permalinks
 permalink:           /:title

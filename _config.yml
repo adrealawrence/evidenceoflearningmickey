@@ -5,7 +5,7 @@
 # Permalinks
 permalink:           /:title
 <<<<<<< Updated upstream
-future:              true
+future:true
 =======
 >>>>>>> Stashed changes
 

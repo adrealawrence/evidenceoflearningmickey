@@ -25,7 +25,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Adrea Lawrence
-  url:            	 localhost:4000
+  url:            	 localhost:4000/evidenceoflearningmickey/
   email:             adrea.lawrence@gmail.com
   twitter:           dradrea
   google_plus:       username

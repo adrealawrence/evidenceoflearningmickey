@@ -4,7 +4,6 @@
 
 # Permalinks
 permalink:           /:title
-future:true
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
